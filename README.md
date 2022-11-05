@@ -8,6 +8,9 @@ Delivery application
 Was made by JS/REACT using components
 
 
+ADILET ZHAKYPOV COM19
+
+
 
 
 
